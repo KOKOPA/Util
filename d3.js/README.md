@@ -1,7 +1,7 @@
 
 <div id="line_graph"></div>    
 
-<script src="./line_graph.js"></script>    
+#<script src="./line_graph.js"></script>    
 <script>   
     lineGraph.data = [0,1,2];		// 기본값   
     lineGraph.width = 500;		// 기본값   
